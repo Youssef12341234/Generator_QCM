@@ -1,0 +1,9 @@
+﻿source_doc,extraction_method,nb_pages,caracteres,nb_passages
+01_vision_ordinateur_ch1.pdf,texte_insuffisant,17,487,114
+01_vision_ordinateur_ch1.pdf,texte_pdf,67,18281,114
+02_vision_ordinateur_ch2.pdf,texte_insuffisant,16,144,127
+02_vision_ordinateur_ch2.pdf,texte_pdf,60,19924,127
+03_employabilite_ch1.pdf,ocr_local,4,7866,23
+04_employabilite_ch2.pdf,ocr_local,4,5022,16
+05_mlops_fondamentaux.pdf,texte_pdf,28,13449,80
+06_spark_dataframes_sparksql.pdf,texte_pdf,105,50553,330
